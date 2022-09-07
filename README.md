@@ -1,7 +1,7 @@
 ![logo](https://github.com/nabinbhatt210/nabinbhatt210/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nabin Datt Bhatt</h1>
 <h3 align="center">A passionate frontend developer of Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/nabinbhatt210/nabinbhatt210/blob/main/user-images.githubusercontent.com%252F55389276%252F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinbhatt210&label=Profile%20views&color=0e75b6&style=flat" alt="nabinbhatt210" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@navin_bhatt82" target="blank"><img src="https://img.shields.io/twitter/follow/@navin_bhatt82?logo=twitter&style=for-the-badge" alt="@navin_bhatt82" /></a> </p>
